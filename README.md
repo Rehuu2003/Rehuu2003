@@ -23,7 +23,7 @@ Exploring the Java programming language.
 Explore the field of Data Science for insights and impactful innovations.
 
 📫 How to reach me:
-officialrehan2003@gmail.com
+rehanmulla077@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
