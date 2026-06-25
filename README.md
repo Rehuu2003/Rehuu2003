@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | Software Engineering Enthusiast | AI Learner
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 B.Tech Computer Science Engineering Graduate
 🚀 Passionate about Building Modern Web Applications
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+Enthusiast;Future+AI+%26+ML+Engineer;Always+Learning+and+Growing" />
