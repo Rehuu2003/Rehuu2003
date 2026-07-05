@@ -49,7 +49,7 @@ Passionate about designing scalable web applications, solving real-world problem
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=c,java,python" />
 </p>
 
 ## Tools & Technologies
@@ -64,7 +64,7 @@ Passionate about designing scalable web applications, solving real-world problem
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rehuu2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rehuu2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehuu2003&layout=compact&theme=tokyonight&hide_border=true"/>
 
