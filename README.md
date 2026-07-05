@@ -66,9 +66,9 @@ Passionate about building scalable applications, solving real-world problems, an
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rehuu2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rehuu2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehuu2003&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehuu2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -89,16 +89,6 @@ Passionate about building scalable applications, solving real-world problems, an
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehuu2003&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rehuu2003&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
