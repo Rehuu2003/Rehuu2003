@@ -1,69 +1,70 @@
-# <div align="center">Hi 👋, I'm Rehan Mulla</div>
-
 <div align="center">
 
-### 💻 Full Stack Developer | Software Engineering Enthusiast | AI Learner
+# Hi 👋, I'm Rehan Mulla
 
-🎓 B.Tech Computer Science Engineering Graduate
-🚀 Passionate about Building Modern Web Applications
+### Full Stack Developer • Software Engineering Enthusiast • AI Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+Enthusiast;Future+AI+%26+ML+Engineer;Always+Learning+and+Growing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Java+%7C+Python+%7C+C%2B%2B;Software+Engineering+Enthusiast;Learning+AI+%26+Machine+Learning;Open+to+Software+Engineering+Opportunities" />
+
+<p>
+Passionate about designing scalable web applications, solving real-world problems, and continuously learning modern technologies.
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 B.Tech Student in Computer Science Engineering
-* 💻 Full Stack Web Developer
-* 🌱 Currently learning **Java, DSA, and System Design**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 📚 Passionate about software development and problem solving
-* 🎯 Aspiring Software Engineer
-* ⚡ Always curious about emerging technologies
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+- 🎓 B.Tech Graduate in Computer Science Engineering
+- 💻 Full Stack Web Developer specializing in the MERN Stack
+- 🌱 Currently strengthening **Java, Data Structures & Algorithms, and System Design**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
+- 🚀 Passionate about Software Engineering, Backend Development, and Scalable Applications
+- 📚 Continuously improving problem-solving and development skills
+- 🎯 Looking for Software Engineer and Full Stack Developer opportunities
 
 ---
 
-## 📊 GitHub Statistics
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+## Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rehuu2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rehuu2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehuu2003&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -71,7 +72,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -81,7 +82,28 @@
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehuu2003&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💡 Currently Learning
+
+- Java Programming
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -93,12 +115,22 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/rehuu2003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 🚀 Learning • Building • Growing
+## 💬 Developer Mindset
+
+> **"Code with purpose. Learn continuously. Build solutions that make an impact."**
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
 
 </div>
