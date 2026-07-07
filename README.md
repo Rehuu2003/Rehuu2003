@@ -1,138 +1,110 @@
-<div align="center">
+# Hi there 👋, I'm Rehan Mulla
 
-# Hi 👋, I'm Rehan Mulla
+## 🚀 Full Stack Developer | B.Tech CSE Graduate (2026)
 
-### Full Stack Developer • Software Engineering Enthusiast • AI Learner
+I'm a passionate Full Stack Developer who enjoys building scalable web applications and solving real-world problems. I love learning new technologies, contributing to open source, and continuously improving my development skills.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Java+%7C+Python+%7C+C%2B%2B;Data+Structures+%26+Algorithms;Learning+AI+%26+Machine+Learning;Open+to+Software+Engineering+Opportunities" />
-
-<p>
-Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=rehuu2003&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+- 🎓 B.Tech in Computer Science & Engineering (2026)
+- 💻 MERN Stack Developer
+- 🌱 Currently learning DevOps, Cloud & Data Structures
+- 🔍 Looking for Software Engineer / Full Stack Developer Opportunities
+- ⚡ Fun Fact: I love building AI-powered and Blockchain-based applications.
 
 ---
 
-# 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science Engineering (2026 Graduate)
-- 💻 Full Stack Web Developer (MERN Stack)
-- 🌱 Currently learning **Java, DSA & System Design**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🚀 Interested in Software Engineering and Backend Development
-- 📚 Passionate about writing clean, scalable code
-- 🎯 Open to Software Engineer & Full Stack Developer opportunities
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rehuu2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehuu2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 🔥 GitHub Streak
+## 🚀 Featured Projects
 
-## 🔥 GitHub Streak
+### 🔹 Decentralized Academic Credential Verification System
+Blockchain-based application for secure academic certificate verification using Solidity, IPFS, React, and Node.js.
 
-<div align="center">
+### 🔹 Pneumonia Detection Using Chest X-Rays
+Deep Learning application using TensorFlow, OpenCV, and Streamlit for medical image classification.
 
-<img src="https://streak-stats.demolab.com?user=Rehuu2003&theme=aura&hide_border=true&border_radius=10"/>
+### 🔹 Emotion-Based Music Recommendation System
+AI-powered application that recommends songs based on facial emotion recognition.
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehuu2003&theme=github-compact&hide_border=true"/>
-
-</div>
+### 🔹 Smart Learning Management System
+A MERN Stack platform with learning dashboards, authentication, and course management.
 
 ---
 
-# 💡 Currently Learning
+## 🏆 Achievements
 
-- Java
-- Data Structures & Algorithms
-- System Design
-- Backend Development
-- Artificial Intelligence
-- Machine Learning
+🥇 First Prize – Science Day Project Competition (2024)
 
----
+🥈 Second Prize – MSBTE Sponsored Project Competition (2023)
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rehan-mulla-2b1b6b291">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rehanmulla077@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rehuu2003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+📄 Published Research Paper on Blockchain-Based Credential Verification
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-## 💬 Developer Mindset
+![](https://github-readme-stats.vercel.app/api?username=Rehuu2003&show_icons=true&theme=tokyonight&hide_border=true)
 
-> **"Code with purpose. Learn continuously. Build solutions that create impact."**
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rehuu2003&theme=tokyonight&hide_border=true)
 
-⭐ If you like my work, feel free to star my repositories and connect with me!
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehuu2003&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Rehuu2003&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rehuu2003)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+![](https://komarev.com/ghpvc/?username=Rehuu2003&style=for-the-badge&color=blue)
+
+⭐ Thanks for visiting my profile!
