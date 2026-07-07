@@ -56,8 +56,7 @@ Deep Learning application using TensorFlow, OpenCV, and Streamlit for medical im
 ### 🔹 Emotion-Based Music Recommendation System
 AI-powered application that recommends songs based on facial emotion recognition.
 
-### 🔹 Smart Learning Management System
-A MERN Stack platform with learning dashboards, authentication, and course management.
+
 
 ---
 
@@ -91,11 +90,10 @@ A MERN Stack platform with learning dashboards, authentication, and course manag
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rehuu2003)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rehan-mulla-2b1b6b291)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://rehan-portfolio-six.vercel.app/)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 ---
 
