@@ -76,9 +76,11 @@ Passionate about building scalable applications, solving real-world problems, an
 
 # 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rehuu2003&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rehuu2003&theme=aura&hide_border=true&border_radius=10"/>
 
 </div>
 
