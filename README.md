@@ -7,8 +7,7 @@ I'm a passionate Full Stack Developer who enjoys building scalable web applicati
 - 🎓 B.Tech in Computer Science & Engineering (2026)
 - 💻 MERN Stack Developer
 - 🌱 Currently learning DevOps, Cloud & Data Structures
-- 🔍 Looking for Software Engineer / Full Stack Developer Opportunities
-- ⚡ Fun Fact: I love building AI-powered and Blockchain-based applications.
+- 🔍 Looking for Software Engineer / Full Stack Developer Opportunities.
 
 ---
 
