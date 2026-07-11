@@ -55,6 +55,11 @@ Deep Learning application using TensorFlow, OpenCV, and Streamlit for medical im
 ### 🔹 Emotion-Based Music Recommendation System
 AI-powered application that recommends songs based on facial emotion recognition.
 
+### 🔹 AI Interview Coach Platform
+AI-powered web application that helps users prepare for technical interviews through mock interviews, personalized feedback, and performance analysis using modern AI technologies.
+
+.
+
 
 
 ---
